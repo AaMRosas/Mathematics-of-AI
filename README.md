@@ -1,8 +1,8 @@
 # Mathematics-of-AI
-Notebooks exploring the mathematical foundations of AI and neural networks.
+Jupyter notebooks exploring the mathematical foundations of artificial intelligence and neural networks, developed as part of **MAT 4953/MAT 6973 — Mathematical Foundations of AI** (Spring 2026, UTSA).
 
-
-
+Course page: [eduenez.github.io/MathAIspring2026UTSA](https://eduenez.github.io/MathAIspring2026UTSA/)  
+Instructor: Eduardo Dueñez, Ph.D. 
 ## Contents
 
 |  | Folder | Topics |
